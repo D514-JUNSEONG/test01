@@ -10,5 +10,7 @@
 <body>
 	GIT 연습
 	첫번쨰 commit point
+	
+	Git 연습 2
 </body>
 </html>
